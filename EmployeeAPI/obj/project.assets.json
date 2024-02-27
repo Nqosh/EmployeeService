@@ -3560,11 +3560,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nqobilem\\source\\repos\\EmployeeAPI\\EmployeeAPI\\EmployeeAPI.csproj",
+      "projectUniqueName": "C:\\Users\\nqobilem\\source\\repos\\EmployeeService\\EmployeeAPI\\EmployeeAPI.csproj",
       "projectName": "EmployeeAPI",
-      "projectPath": "C:\\Users\\nqobilem\\source\\repos\\EmployeeAPI\\EmployeeAPI\\EmployeeAPI.csproj",
+      "projectPath": "C:\\Users\\nqobilem\\source\\repos\\EmployeeService\\EmployeeAPI\\EmployeeAPI.csproj",
       "packagesPath": "C:\\Users\\nqobilem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nqobilem\\source\\repos\\EmployeeAPI\\EmployeeAPI\\obj\\",
+      "outputPath": "C:\\Users\\nqobilem\\source\\repos\\EmployeeService\\EmployeeAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nqobilem\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "reZ1muEhVbx1LJnNJxW3z2ivTFWd18L14+jCASgE/hQhIQDmTopNXpwNoFBNE+N3uVte9LMqY5dlIC+NHc2+9g==",
+  "dgSpecHash": "qdlv7Zt08565ODSJltiFWih+/pj2TFdUAIneXZFwmiQfoSeehMELx3J5bOzF47UnbDwzeaGGBWrKfY4yCaPzDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nqobilem\\source\\repos\\EmployeeAPI\\EmployeeAPI\\EmployeeAPI.csproj",
+  "projectFilePath": "C:\\Users\\nqobilem\\source\\repos\\EmployeeService\\EmployeeAPI\\EmployeeAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nqobilem\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\nqobilem\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
